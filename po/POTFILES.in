@@ -1,0 +1,10 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+src/sagarmatha-screensaver-command.c
+src/sagarmatha-screensaver-dialog.c
+src/sagarmatha-screensaver.c
+src/sagarmatha-screensaver.desktop.in.in
+src/gs-auth-pam.c
+src/gs-listener-dbus.c
+src/gs-lock-plug.c
+src/gs-window-x11.c

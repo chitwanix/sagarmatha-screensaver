@@ -1,0 +1,10 @@
+HACKING
+=======
+
+Sagarmatha-Screensaver is normally build using dpkg. If using Chitwanix ,Linux Mint, Ubuntu,
+or any other member of the Debian family, install the `devscripts` package with
+ `sudo apt-get install devscripts`.
+ 
+Once you have devscripts, run `debuild -us -uc` to build sagarmatha-screensaver
+(or any other sagarmatha package) and `sudo dpkg -i ../sagarmatha-screensaver_{version}_{arch}.deb`
+to install.
